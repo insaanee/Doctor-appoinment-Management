@@ -1,0 +1,91 @@
+.prodwrap{
+	
+	min-height:600px;
+	width:100%;
+	background-color:#b3b3b3;
+	padding-top:20px;
+	
+}
+.listbox{
+	
+	min-height:600px;
+	width:1005px;
+	background-color:#858585;
+	
+	margin-left:20px;
+	float:left;
+	
+}
+.ltable{
+	overflow:scroll;
+	height:500px;
+	width:1000px;
+	
+}
+.ltable td{
+border:2px solid #fff;
+text-align:center;
+padding-right:40px;
+padding-bottom:40px;
+
+}
+.ltable button{
+	
+	height:20px;
+	width:30px;
+	background-color:red;
+}
+.table td{
+	border:2px solid #3a7421;
+}
+.ltable td:hover{
+	color:red;
+	font-size:15px;
+}
+.ltable table{
+	background-color:#dfbf9f;
+	
+}
+.ltable table:hover{
+	background-color:#c2c2a3;
+	
+	
+}
+.ltable table{
+	margin:0px auto;
+	
+}
+.prodsidebar{
+	width:320px;
+	height:500px;
+	background-color:#858585;
+	float:right;
+}
+.listnav{
+	
+	height:70px;
+	width:100%;
+	background-color:#444;
+	color:#fff;
+	text-align:center;
+	font-size:25px;
+}
+.listnav a{
+	
+	
+}
+.lmenu{
+	width:30%;
+	height:30px;
+	float:left;
+	margin-top:15px;
+	
+}
+.lsearch{
+	width:20%;
+	float:right;
+	color:#fff;
+	
+	
+}
+
